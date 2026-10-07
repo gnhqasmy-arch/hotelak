@@ -1,2 +1,2 @@
-![Hotelak](images/home-page.jpg)
+![home page](images/home-page.jpg)
 
